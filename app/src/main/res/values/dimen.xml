@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="appMargin">5dp</dimen>
+
+    <dimen name="listImageHeight">60dp</dimen>
+    <dimen name="listImageWidth">60dp</dimen>
+
+    <dimen name="detailImageHeight">100dp</dimen>
+    <dimen name="detailImageWidth">100dp</dimen>
+</resources>

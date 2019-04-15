@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Songs</string>
+
+    <!--List-->
+    <string name="songsList">Song List</string>
+
+    <!--Details-->
+    <string name="songsDetail">Song Detail</string>
+    <string name="songsDetailPlay">Play</string>
+    <string name="songsDetailStop">Stop</string>
+
+    <string name="songsDetail_ArtistName">Artist Name:</string>
+    <string name="songsDetail_CollectionName">Collection Name:</string>
+    <string name="songsDetail_TrackName">Track Name:</string>
+    <string name="songsDetail_ReleaseDate">Release Date:</string>
+    <string name="songsDetail_Time">Time (Second):</string>
+    <string name="songsDetail_Country">Country:</string>
+
+    <!--Common Messages-->
+    <string name="appNone">None</string>
+    <string name="error_serverError">Something went wrong, Please try later</string>
+    <string name="error_noInternet">Please check your internet connection</string>
+
+    <!--Progress Dialog-->
+    <string name="progress_message">Please Wait...</string>
+</resources>
